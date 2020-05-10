@@ -1,0 +1,21 @@
+body {
+    background-color: lightslategray;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    width: 200px;
+    
+}
+
+
+.container {
+    text-align: center;
+}
+.container h4 {
+    color: yellow;
+}
+.container p {
+    color: white;
+}
